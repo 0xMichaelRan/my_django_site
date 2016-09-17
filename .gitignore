@@ -1,3 +1,6 @@
+# copied this file from:
+# https://github.com/github/gitignore/blob/ef8772f1346e95272f6ee2fa76ce502c88444a7b/Python.gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
