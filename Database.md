@@ -1,6 +1,10 @@
 Here is the shell command for database (sqlite3)
 https://docs.djangoproject.com/en/1.10/intro/tutorial02/
 
+    python3 manage.py shell
+
+After you saw ">>>", try out the following:
+
     from polls.models import Question, Choice   # Import the model classes we just wrote.
     Question.objects.all()
     from django.utils import timezone
